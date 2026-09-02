@@ -1,0 +1,15 @@
+node_modules
+dist
+dist-ssr
+*.local
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+*.tsbuildinfo
+.vscode/*
+!.vscode/extensions.json
+
+# Local Claude Code settings (machine-specific)
+.claude/settings.local.json
